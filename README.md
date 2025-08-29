@@ -1,16 +1,12 @@
 ## Hi there 👋
+- 🔭 Currently in my 2nd year of a 4-year Bachelor degree.
+- 🌱 I'm just at the begaining of my long-distance-excploration about Computer Science.
 
 <!--
 **Ticurtiz/Ticurtiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 - 🔭 Currently in my 2nd year of a 4-year Bachelor degree.
 - 🌱 I'm just at the begaining of my long-distance-excploration about Computer Science.
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
